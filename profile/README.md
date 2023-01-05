@@ -7,7 +7,7 @@ DevDao's goal is to gather a community of developers who are ready to create pro
 
 ### Part 1. DevDao Jetton (DDJ)
 Jetton to distribute shares in the DevDao team. To receive DDJ, a DAO participant must participate in the development or promotion of existing projects, or create their own, useful for the DAO project. Emission is unlimited.
-The amount of DDJ received for the work is determined by general voting (in DevDao chat), using MultiSig Wallet (based on xJet API), where the entire coin issue is stored.  Voting requires 50 DDJ on the wallet balance in order to confirm the vote. Transferring DDJ to a third-party wallet not associated with you/your account and/or transferring an incomplete amount and a portion of it means sharing your stake in DevDao.
+The amount of DDJ received for the work is determined by general voting (in DevDao chat), using MultiSig Wallet, where the entire coin issue is stored.  Voting requires 5 DDJ on the wallet balance in order to confirm the vote. Transferring DDJ to a third-party wallet not associated with you/your account and/or transferring an incomplete amount and a portion of it means sharing your stake in DevDao. To get a DDJ for a project, a vote must be held.
 
 ### Part 2. DevDao NFT (DDN)
 Non-Fungible Token DevDao is used to access DAO projects, allowing you to get a share in the project.
