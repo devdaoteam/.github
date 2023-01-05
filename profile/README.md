@@ -51,3 +51,4 @@ To change the DDWP, you need to create a pull request to the whitepaper reposito
 `EQB3C6L1SM4eYFuyrPsYBlESa0W0g3f3CnVPXebmoZkW-viN TON`
 `EQCwO8rJat8T80fZRvhx3R4FcEkxX9Pa2BNXP0btUoUk8TG5 TON`
 `EQBppqtdVg9Iv0OAyYcln8GFXwPot1IVa1lT5maP_zwz9dmN TON`
+`EQCklgUMBy2QgQdKcXVRjpMTcUwD7gPOOsINRPSt2E4delpy TON`
