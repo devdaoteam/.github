@@ -25,6 +25,8 @@ Chat access is regulated by the bot, and only DDN holders can join. Passing the 
 
 Adding or excluding bots and users is decided by general voting, where 80% of DAO must vote. Create a vote can any of the admins of the forum
 
+Everyone with 5 DDJ must vote in "DEVDAO VOTE" chat in all votings.
+
 ### Part 6. DevDao Team Roles
 РО (Product Owner) becomes the person who created the project or selected by voting of the DAO, one person can not supervise more than 3 projects. PO is the owner of 3DNS for the project. The PO may be re-elected by a vote of the entire DAO. The PO is engaged in the development of the project's whitepaper, which is engaged in recruiting the team, the order within the project's chat room and the distribution of team shares, building processes and interactions within the project You can only submit a project for DDJ collection if you have a complete description of the project.
 
